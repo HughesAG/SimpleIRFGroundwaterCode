@@ -5,6 +5,6 @@ Structure of code is as follows:
 
 Main method is PSDModel.cpp
 
-Digitial Evelation Model for simple groundwater-surafce interaction is held here: DEM.cpp
-Simple river modle (as fixed heads) is held here: River.cpp
+Digitial Evelation Model for simple groundwater-surface interaction is held here: DEM.cpp
+Simple river model (as fixed heads) is held here: River.cpp
 The model grids consists of a node class (GWNode.cpp) held in a grid class (GWGrid.cpp)
